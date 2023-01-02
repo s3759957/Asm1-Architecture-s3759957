@@ -1,0 +1,226 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "email": "nguyen@rmit",
+      "password": "rmit"
+    },
+    {
+      "id": 1,
+      "email": "admin@rmit",
+      "password": "rmit"
+    }
+  ],
+  "hotel": {
+    "name": "The Princess of Arena Cam Ranh Home",
+    "address": "Toà Sea- Khu nghỉ The Arena, Miếu Ông, Vietnam",
+    "phone": "123456789",
+    "description": "Located in Miếu Ông in the Khanh Hoa region, The Princess of Arena Cam Ranh Home has a balcony. Situated a few steps from Bai Dai Beach, the property features a garden and free private parking.The air-conditioned apartment consists of 1 bedroom, a kitchen and 1 bathroom. A flat-screen TV is available.A terrace is available for guests to use at the apartment.100 Egg Mud Bath is 33 km from The Princess of Arena Cam Ranh Home, while Alexandre Yersin Museum is 40 km from the property. The nearest airport is Cam Ranh International Airport,7 km from the accommodation.",
+    "lat": 12.03,
+    "long": 109.21,
+    "ownerName": "Dr. Thanh NN",
+    "ownerPhone": "0123456789",
+    "company": "Arena Cam Ranh Home",
+    "email": "thanh.nn@rmit.edu.vn",
+    "checkIn": "14:00 - 22:00",
+    "checkOut": "08:00 - 12:00",
+    "children": "Children 12 and above are considered adults at this property.",
+    "pets": "Pets are not allowed.",
+    "smoking": "Smoking is not allowed.",
+    "parties": "Parties/events are not allowed.",
+    "payment": "This property only accepts cash payments."
+  },
+  "rooms": [
+    {
+      "id": 4,
+      "name": "Suit Two",
+      "rate": 400,
+      "description": "Quad room",
+      "size": 40,
+      "quantity": 4,
+      "photo": [
+        "https://images.unsplash.com/photo-1525097487452-6278ff080c31",
+        "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6",
+        "https://images.unsplash.com/photo-1563298723-dcfebaa392e3",
+        "https://images.unsplash.com/photo-1588436706487-9d55d73a39e3",
+        "https://images.unsplash.com/photo-1574180045827-681f8a1a9622",
+        "https://images.unsplash.com/photo-1530731141654-5993c3016c77",
+        "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7",
+        "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
+        "https://images.unsplash.com/photo-1597262975002-c5c3b14bbd62",
+        "https://images.unsplash.com/photo-1516455207990-7a41ce80f7ee",
+        "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7"
+      ],
+      "utilities": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": 5,
+      "name": "Diamond Two",
+      "rate": 400,
+      "description": "Sea view room",
+      "size": 20,
+      "quantity": 2,
+      "photo": [
+        "https://images.unsplash.com/photo-1549388604-817d15aa0110",
+        "https://images.unsplash.com/photo-1525097487452-6278ff080c31",
+        "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6",
+        "https://images.unsplash.com/photo-1563298723-dcfebaa392e3",
+        "https://images.unsplash.com/photo-1588436706487-9d55d73a39e3",
+        "https://images.unsplash.com/photo-1574180045827-681f8a1a9622",
+        "https://images.unsplash.com/photo-1530731141654-5993c3016c77",
+        "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7",
+        "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
+        "https://images.unsplash.com/photo-1597262975002-c5c3b14bbd62"
+      ],
+      "utilities": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": 6,
+      "name": "Suite Three",
+      "rate": 300,
+      "description": "Park view room",
+      "size": 30,
+      "quantity": 2,
+      "photo": [
+        "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6",
+        "https://images.unsplash.com/photo-1563298723-dcfebaa392e3",
+        "https://images.unsplash.com/photo-1588436706487-9d55d73a39e3",
+        "https://images.unsplash.com/photo-1574180045827-681f8a1a9622",
+        "https://images.unsplash.com/photo-1530731141654-5993c3016c77",
+        "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7",
+        "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
+        "https://images.unsplash.com/photo-1597262975002-c5c3b14bbd62",
+        "https://images.unsplash.com/photo-1516455207990-7a41ce80f7ee"
+      ],
+      "utilities": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": 7,
+      "name": "Suite Four",
+      "rate": 400,
+      "description": "Sea view room",
+      "size": 20,
+      "quantity": 2,
+      "photo": [
+        "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6",
+        "https://images.unsplash.com/photo-1549388604-817d15aa0110",
+        "https://images.unsplash.com/photo-1525097487452-6278ff080c31",
+        "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6",
+        "https://images.unsplash.com/photo-1563298723-dcfebaa392e3",
+        "https://images.unsplash.com/photo-1588436706487-9d55d73a39e3",
+        "https://images.unsplash.com/photo-1574180045827-681f8a1a9622",
+        "https://images.unsplash.com/photo-1530731141654-5993c3016c77",
+        "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7",
+        "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
+        "https://images.unsplash.com/photo-1597262975002-c5c3b14bbd62",
+        "https://images.unsplash.com/photo-1516455207990-7a41ce80f7ee",
+        "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7"
+      ],
+      "utilities": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isAvailable": true
+    },
+    {
+      "id": 8,
+      "name": "Suite One",
+      "rate": 120,
+      "description": "Single room",
+      "size": 10,
+      "quantity": 1,
+      "photo": [
+        "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6",
+        "https://images.unsplash.com/photo-1549388604-817d15aa0110",
+        "https://images.unsplash.com/photo-1525097487452-6278ff080c31",
+        "https://images.unsplash.com/photo-1523413651479-597eb2da0ad6",
+        "https://images.unsplash.com/photo-1563298723-dcfebaa392e3",
+        "https://images.unsplash.com/photo-1588436706487-9d55d73a39e3"
+      ],
+      "utilities": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isAvailable": true
+    },
+    {
+      "name": "Diamond One",
+      "rate": 210,
+      "description": "Double room",
+      "size": 20,
+      "quantity": 2,
+      "photo": [
+        "https://images.unsplash.com/photo-1530731141654-5993c3016c77",
+        "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7",
+        "https://images.unsplash.com/photo-1519710164239-da123dc03ef4",
+        "https://images.unsplash.com/photo-1597262975002-c5c3b14bbd62",
+        "https://images.unsplash.com/photo-1516455207990-7a41ce80f7ee",
+        "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7"
+      ],
+      "utilities": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "isAvailable": true,
+      "id": 0
+    }
+  ],
+  "bookings": [
+    {
+      "id": 0,
+      "email": "default",
+      "name": "default",
+      "phone": "default",
+      "nId": "default",
+      "checkIn": "default",
+      "checkOut": "default",
+      "price": 0
+    },
+    {
+      "email": "",
+      "name": "",
+      "phone": "",
+      "nId": "",
+      "checkIn": "2022-12-02T14:11:54.000Z",
+      "checkOut": "2022-12-09T14:11:54.000Z",
+      "price": 70,
+      "id": 1
+    }
+  ]
+}
